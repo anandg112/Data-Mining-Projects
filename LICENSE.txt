@@ -1,0 +1,21 @@
+ACADEMIC RESTRICTED USE LICENSE
+
+Netflix.com, Inc. is the owner, or the licensee, of the intellectual property
+rights (including copyright) in this data, and this License is only a licence
+to acquire and use these data products.  No title or other rights are conveyed
+by this Agreement.
+
+This data is provided "as is", and the owner makes no representations or
+warranties, either expressed or implied, as to the appropriateness and fitness
+for a particular purpose.
+
+This data is provided for the exclusive purposes of teaching, academic research
+and publishing, and/or planning of educational services, and may not be used for
+any other purposes without the explicit written approval, in advance, of
+Netflix.com, Inc.
+
+The publishing of data and analysis resulting from research using any of this
+data is permitted in research communications such as scholarly papers, journals
+and the like. The authors of these communications are required to cite
+Netflix.com, Inc. as the source of the data, and to indicate that the results or
+views expressed are those of the author/authorized user.
