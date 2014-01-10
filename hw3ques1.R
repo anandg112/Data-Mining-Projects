@@ -1,4 +1,3 @@
-setwd("/Users/zhusu/Documents/2013fall_course/281datamining/homework3/")
 xy=read.table("az-5000.txt",header=TRUE)    #read data
 set.seed(1)
 sampleline=sample(nrow(xy),4000)
