@@ -3,7 +3,7 @@ Data-Mining-Projects
 
 Project files from COEN 281
 
-This repository contains project files from Data Mining & Pattern Recognition (COEN 281). Please install the required R packages before using the files (i.e. MASS, glmnet, rpart, nnet, e1071).
+This repository contains project files from Data Mining & Pattern Recognition (COEN 281) at Santa Clara University. Please install the required R packages before using the files (i.e. MASS, glmnet, rpart, nnet, e1071).
 
 HW1 - The dataset “housetype.data” represents an extract from a commercial marketing database created from questionnaires filled out by shopping mall customers in the San Francisco Bay area.
 
