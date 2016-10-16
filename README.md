@@ -16,8 +16,18 @@ hw2ques3.R - “credit_data.txt” contains information about the financial char
 
 hw2ques4.R - Glmnet fits the penalized logistic regression models using the lasso. In this file, regularized model is compared to the unregularized model when applied to the credit data. cv.glmnet is used to fit the regularized logistic regression to the credit training data. Cross-validation curve is plotted. The best lambda value is retrieved and passed to the coef() function to retrieve the corresponding coefficient vector. The predict function with the same value of lambda is used to predict on the test data set. A confusion matrix is produced.
 
-hw3ques1.R - The file “AZ-5000.txt” contains 5000 lowercase character samples that have been preprocessed. It is used again with 80/20 split between train and test data. We want to use 18 input features, 8 hidden units and 26 output units. R library nnet is used to fit feed-forward neural networks with size between 1-20. Mean square error is computed by subtracting the fitted value returned by nnet from the targetMatrix(binaryM). The predict command is used to compute MSE for the test set. Lastly, results are plotted for MSE for training and test dataset.
+hw3ques1.R - The file “AZ-5000.txt” contains 5000 lowercase character samples that have been preprocessed. It is used again with 80/20 split between train and test data. We want to use 18 input features, 8 hidden units and 26 output units. R library nnet is used to fit feed-forward neural networks with size between 1-20. Mean square error is computed by subtracting the fitted value returned by nnet from the targetMatrix(binaryM). The predict command is used to compute MSE for the test dataset. Lastly, MSE results are plotted for training and test dataset.
 
 hw3ques2.R - The “spam.csv” data, collected at HP Labs, contains information on 4601 e-mails which were classified as spam or non-spam. Each e-mail is described by 57 variables indicating the frequency of certain words and characters in the message. 15% of data is used for testing. From the training dataset, a smaller random sample size of 500 is used for "tuning". The tune.svm command is used from R library e1071 to conduct a grid search for the best values of lambda and cost. Summary command is used to extract the best parameters. Final model is trained on all the training data. Finally, a confusion matrix is created for test dataset and accuracy is reported.
 
 hw3ques3.R - The dataset “housetype_data.txt” represents an extract from a commercial marketing database created from questionnaires filled out by shopping mall customers in the San Francisco Bay area.
+
+hw4ques1.R
+
+hw4ques2.R
+
+hw4ques3.R
+
+hw4ques4.R
+
+hw4ques5.R
